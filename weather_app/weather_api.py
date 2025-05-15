@@ -1,5 +1,5 @@
 from pip._vendor import requests
-API_KEY = 'f60115a19092b70b42e74810ba94aefa'  # Replace with your real API key
+API_KEY =  # Replace with your real API key
 BASE_URL = 'https://api.openweathermap.org/data/2.5/weather'
 
 def get_weather(city):
