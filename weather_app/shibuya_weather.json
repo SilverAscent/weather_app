@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 139.6981,
+        "lat": 35.6648
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 21.31,
+        "feels_like": 20.59,
+        "temp_min": 19.94,
+        "temp_max": 22.01,
+        "pressure": 1004,
+        "humidity": 42,
+        "sea_level": 1004,
+        "grnd_level": 1002
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 10.29,
+        "deg": 330
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1746580833,
+    "sys": {
+        "type": 2,
+        "id": 268395,
+        "country": "JP",
+        "sunrise": 1746560608,
+        "sunset": 1746610324
+    },
+    "timezone": 32400,
+    "id": 1850144,
+    "name": "Shibuya",
+    "cod": 200
+}

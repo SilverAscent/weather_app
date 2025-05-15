@@ -1,0 +1,103 @@
+London: 13.77°C, few clouds
+Buffalo: 25.18°C, broken clouds
+Las Vegas: 25.7°C, clear sky
+Tokyo: 17.17°C, broken clouds
+New York: 21.9°C, clear sky
+London: 13.77°C, few clouds
+Buffalo: 25.16°C, broken clouds
+Las Vegas: 25.74°C, clear sky
+Tokyo: 17.17°C, broken clouds
+New York: 21.8°C, clear sky
+London: 13.77°C, few clouds
+London: 13.64°C, few clouds
+Buffalo: 25.16°C, broken clouds
+Las Vegas: 25.7°C, clear sky
+Tokyo: 17.17°C, broken clouds
+New York: 21.9°C, clear sky
+London: (61, ['wind speed'], ['temp'])°C, few clouds
+Buffalo: (38, ['wind speed'], ['temp'])°C, broken clouds
+Las Vegas: (11, ['wind speed'], ['temp'])°C, clear sky
+Tokyo: (83, ['wind speed'], ['temp'])°C, broken clouds
+New York: (37, ['wind speed'], ['temp'])°C, clear sky
+London: (61, ['wind speed'], ['temp'])°C, few clouds
+Buffalo: (38, ['wind speed'], ['temp'])°C, broken clouds
+Las Vegas: (11, ['wind speed'], ['temp'])°C, clear sky
+Tokyo: (83, ['wind speed'], ['temp'])°C, broken clouds
+New York: (37, ['wind speed'], ['temp'])°C, clear sky
+London: (61, ['wind speed'], ['temp'])°C, few clouds
+Buffalo: (38, ['wind speed'], ['temp'])°C, broken clouds
+Las Vegas: (11, ['wind speed'], ['temp'])°C, clear sky
+Tokyo: (83, ['wind speed'], ['temp'])°C, broken clouds
+New York: (37, ['wind speed'], ['temp'])°C, clear sky
+London: (61, ['wind speed'], ['temp'])°C, few clouds
+London: (61, ['wind speed'], ['temp'])°C, few clouds
+London: (61, ['wind speed'], ['temp'])°C, few clouds
+Buffalo: (38, ['wind speed'], ['temp'])°C, broken clouds
+Las Vegas: (11, ['wind speed'], ['temp'])°C, clear sky
+Tokyo: (83, ['wind speed'], ['temp'])°C, broken clouds
+New York: (37, ['wind speed'], ['temp'])°C, clear sky
+London: (62, ['wind speed'], ['temp'])°C, few clouds
+London: (62, ['wind speed'], ['temp'])°C, few clouds
+Buffalo: (38, ['wind speed'], ['temp'])°C, broken clouds
+Las Vegas: (11, ['wind speed'], ['temp'])°C, clear sky
+Tokyo: (83, ['wind speed'], ['temp'])°C, broken clouds
+New York: (37, ['wind speed'], ['temp'])°C, clear sky
+London: 12.44°C,overcast clouds
+Buffalo: 9.01°C,overcast clouds
+Las Vegas: 21.53°C,clear sky
+Tokyo: 12.41°C,few clouds
+New York: 20.69°C,broken clouds
+Osaka: 7.93°C,overcast clouds
+Shibuya: 12.44°C,few clouds
+London: 12.44°C,overcast clouds
+Buffalo: 9.01°C,overcast clouds
+Las Vegas: 21.53°C,clear sky
+Tokyo: 12.41°C,few clouds
+New York: 20.69°C,broken clouds
+Osaka: 7.93°C,overcast clouds
+Shibuya: 12.44°C,few clouds
+London: 7.04°C,broken clouds
+Humidity from London: 84
+Wind speed from London: 2.06Buffalo: 14.48°C,overcast clouds
+Humidity from Buffalo: 75
+Wind speed from Buffalo: 2.06Las Vegas: 21.53°C,few clouds
+Humidity from Las Vegas: 40
+Wind speed from Las Vegas: 4.63Tokyo: 20.52°C,few clouds
+Humidity from Tokyo: 44
+Wind speed from Tokyo: 10.29New York: 15°C,mist
+Humidity from New York: 94
+Wind speed from New York: 3.6Osaka: 17.4°C,broken clouds
+Humidity from Osaka: 47
+Wind speed from Osaka: 4.63Shibuya: 21.02°C,few clouds
+Humidity from Shibuya: 43
+Wind speed from Shibuya: 10.29London: 7.04°C,broken clouds
+Humidity from London: 84
+Wind speed from London: 2.06Buffalo: 14.48°C,overcast clouds
+Humidity from Buffalo: 75
+Wind speed from Buffalo: 2.06Las Vegas: 21.53°C,few clouds
+Humidity from Las Vegas: 40
+Wind speed from Las Vegas: 4.63Tokyo: 20.52°C,few clouds
+Humidity from Tokyo: 44
+Wind speed from Tokyo: 10.29New York: 15.04°C,mist
+Humidity from New York: 94
+Wind speed from New York: 3.6Osaka: 17.4°C,broken clouds
+Humidity from Osaka: 47
+Wind speed from Osaka: 4.63Shibuya: 21.02°C,few clouds
+Humidity from Shibuya: 43
+Wind speed from Shibuya: 10.29London: 6.85°C,broken clouds
+Humidity from London: 85
+Wind speed from London: 2.06Buffalo: 14.69°C,overcast clouds
+Humidity from Buffalo: 72
+Wind speed from Buffalo: 2.06Las Vegas: 21.53°C,few clouds
+Humidity from Las Vegas: 40
+Wind speed from Las Vegas: 4.63Tokyo: 21.07°C,few clouds
+Humidity from Tokyo: 42
+Wind speed from Tokyo: 10.29New York: 15.04°C,mist
+Humidity from New York: 94
+Wind speed from New York: 3.6Osaka: 17.4°C,broken clouds
+Humidity from Osaka: 47
+Wind speed from Osaka: 4.63Shibuya: 21.31°C,few clouds
+Humidity from Shibuya: 42
+Wind speed from Shibuya: 10.29Buffalo: 14.48°C,overcast clouds
+Humidity from Buffalo: 74
+Wind speed from Buffalo: 2.06

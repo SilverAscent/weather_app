@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -78.8784,
+        "lat": 42.8865
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 14.48,
+        "feels_like": 13.92,
+        "temp_min": 13.34,
+        "temp_max": 15.51,
+        "pressure": 1013,
+        "humidity": 74,
+        "sea_level": 1013,
+        "grnd_level": 989
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1746580860,
+    "sys": {
+        "type": 2,
+        "id": 2002139,
+        "country": "US",
+        "sunrise": 1746525759,
+        "sunset": 1746577292
+    },
+    "timezone": -14400,
+    "id": 5110629,
+    "name": "Buffalo",
+    "cod": 200
+}

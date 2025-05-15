@@ -1,0 +1,21 @@
+from tkinter import ttk
+from tkinter import *
+def submit():
+    print("Hello ",[name_entry.get()],", you are ",[age_entry.get()]," years old and you like ",[weather_var.get()],".")
+root=Tk()
+root.title("User Form")
+Label(root, text="Enter your name:").pack()
+name_entry = Entry(root)
+name_entry.pack()
+Label(root, text="Enter your age:").pack()
+age_entry = Entry(root)
+age_entry.pack()
+weather_label = Label(root, text="Select your favorite weather:")
+weather_label.pack(pady=5)
+weather_options = ["Sunny", "Cloudy", "Rainy", "Snowy", "Windy"]
+weather_var=StringVar()
+weather_dropdown =ttk.Combobox(root, textvariable=weather_var,values=weather_options)
+weather_dropdown.pack(pady=5)
+weather_dropdown.current(0)
+Button(root,text="Submit",command=submit).pack()
+root.mainloop()
